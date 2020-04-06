@@ -1,7 +1,7 @@
 #import the dataset
 import pandas as pd
 import numpy as np
-df = pd.read_csv('C:\\Users\\Birjit\\OneDrive\\Documents\\GitHub\\INT524_project\\assign\\dataset.csv')
+df = pd.read_csv('dataset.csv')
 print(df.head())
 print(df.tail())
 # No. of rows as Features
